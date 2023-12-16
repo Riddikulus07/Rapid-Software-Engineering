@@ -30,7 +30,7 @@ A generator class is designed to dynamically create code artifacts based on UML-
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/rapid-software-engineering.git
+   git clone https://github.com/Riddikulus07/rapid-software-engineering.git
    cd rapid-software-engineering
    ```
 
